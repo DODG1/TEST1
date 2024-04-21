@@ -1,0 +1,10 @@
+{
+    "name": "TEST1",
+    "symbol": "TEST1",
+    "description": "this is just TEST1 token.",
+    "extensions":  {
+        "website" : "",
+        "twitter": "https://twitter.com/elonmusk"
+    },
+    "image": "https://raw.githubusercontent.com/DODG1/TEST1/main/TEST1_logo.png"
+}
